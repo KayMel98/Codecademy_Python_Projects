@@ -40,4 +40,3 @@ def is_criminal(dna_sample):
   else: 
     print "The number of codon matches: %s. DNA does not match suspect profile. Suspect can be released. \n" % num_matches
 
-
